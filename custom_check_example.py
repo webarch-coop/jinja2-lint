@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 This is an example of how to extend the default environment
 and/or loader to add your own filter logic.
