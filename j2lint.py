@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 @author Gerard van Helden <drm@melp.nl>
 @license DBAD, see <http://www.dbad-license.org/>

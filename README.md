@@ -2,6 +2,16 @@
 
 Every now and then, it's pretty useful to just have a cli tool that does the job. This does it.
 
+## Ansible ##
+
+This fork of [jinja2-lint](https://github.com/drm/jinja2-lint) updates the
+scripts to use `python3` as `python` isn't available by default on Debian
+Bullseye and also adds a [ansiblej2lint.py](ansiblej2lint.py) script with a
+list of [Ansible
+filters](https://docs.ansible.com/ansible/latest/user_guide/playbooks_filters.html)
+and [Ansible
+tests](https://docs.ansible.com/ansible/latest/user_guide/playbooks_tests.html).
+
 ## Usage: ##
 ```
 cp j2lint.py /usr/local/bin/
